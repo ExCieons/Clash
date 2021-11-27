@@ -1,2 +1,2 @@
 DOMAIN-SUFFIX,emby.hm773.xyz
-IP,178.173.230.58
+IP-CIDR,178.173.230.58/32,no-resolve
