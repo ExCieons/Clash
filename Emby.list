@@ -1,4 +1,12 @@
 DOMAIN-KEYWORD,emby
-DOMAIN-KEYWORD,odysseyplus
-DOMAIN-KEYWORD,charontv
-DOMAIN-KEYWORD,ssky
+DOMAIN-SUFFIX,emby.nexitally.com
+DOMAIN-SUFFIX,cf.odysseyplus.site
+DOMAIN-SUFFIX,sg.odysseyplus.site
+DOMAIN-SUFFIX,sg2.odysseyplus.site
+DOMAIN-SUFFIX,ru.odysseyplus.site
+DOMAIN-SUFFIX,sp.odysseyplus.site
+DOMAIN-SUFFIX,emby.hm773.xyz
+DOMAIN-SUFFIX,play.charontv.com
+DOMAIN-SUFFIX,emby.ssky.me
+IP-CIDR,38.94.111.238/24
+IP-CIDR,178.173.230.58/24
