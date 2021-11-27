@@ -1,2 +1,2 @@
 DOMAIN-SUFFIX,emby.nexitally.com
-IP,38.94.111.238
+IP-CIDR,38.94.111.238/32,no-resolve
