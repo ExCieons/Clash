@@ -8,5 +8,7 @@ DOMAIN-SUFFIX,sp.odysseyplus.site
 DOMAIN-SUFFIX,emby.hm773.xyz
 DOMAIN-SUFFIX,play.charontv.com
 DOMAIN-SUFFIX,emby.ssky.me
+DOMAIN-SUFFIX,emby-jp.ssky.me
+DOMAIN-SUFFIX,emby-us.ssky.me
 IP-CIDR,38.94.111.238/24
 IP-CIDR,178.173.230.58/24
