@@ -4,12 +4,14 @@ DOMAIN-SUFFIX,emby.hm773.xyz
 IP-CIDR,178.173.230.58/24
 DOMAIN-SUFFIX,cf.odysseyplus.site
 DOMAIN-SUFFIX,sg.odysseyplus.site
-DOMAIN-SUFFIX,sg2.odysseyplus.site
+DOMAIN-SUFFIX,jp.odysseyplus.site
 DOMAIN-SUFFIX,ru.odysseyplus.site
 DOMAIN-SUFFIX,sp.odysseyplus.site
 DOMAIN-SUFFIX,aaa.ax
 DOMAIN-SUFFIX,us.aaa.ax
 DOMAIN-SUFFIX,jp.aaa.ax
 DOMAIN-SUFFIX,jp-az.aaa.ax
+DOMAIN-SUFFIX,kr.aaa.ax
 DOMAIN-SUFFIX,hk.aaa.ax
 DOMAIN-SUFFIX,hk2.aaa.ax
+DOMAIN-SUFFIX,hk3.aaa.ax
