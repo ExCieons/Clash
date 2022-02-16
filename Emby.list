@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,emby.nexitally.com
-IP-CIDR,38.94.111.238/24
+IP-CIDR,38.94.111.238/32
 DOMAIN-SUFFIX,emby.hm773.xyz
-IP-CIDR,178.173.230.58/24
+IP-CIDR,178.173.230.58/32
 DOMAIN-SUFFIX,cf.odysseyplus.site
 DOMAIN-SUFFIX,sg.odysseyplus.site
 DOMAIN-SUFFIX,jp.odysseyplus.site
