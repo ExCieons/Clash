@@ -8,10 +8,11 @@ DOMAIN-SUFFIX,jp.odysseyplus.site
 DOMAIN-SUFFIX,ru.odysseyplus.site
 DOMAIN-SUFFIX,us.odysseyplus.site
 DOMAIN-SUFFIX,kr.odysseyplus.site
-DOMAIN-SUFFIX,sp.odysseyplus.site
 DOMAIN-SUFFIX,aaa.ax
 IP-CIDR,23.88.5.156/32
 DOMAIN-SUFFIX,us.aaa.ax
 DOMAIN-SUFFIX,jp.aaa.ax
 DOMAIN-SUFFIX,jp-az.aaa.ax
 DOMAIN-SUFFIX,sg.aaa.ax
+DOMAIN-SUFFIX,emby.misakaf.xyz
+IP-CIDR,178.173.230.58/32
