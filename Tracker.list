@@ -4,8 +4,4 @@ DOMAIN-SUFFIX,btdig.com
 DOMAIN-SUFFIX,kp.m-team.cc
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,u2.dmhy.org
-#Tracker
-DOMAIN-SUFFIX,tracker.openbittorrent.com
-DOMAIN-SUFFIX,tracker.opentrackr.org
-DOMAIN-SUFFIX,tracker.m-team.cc
-DOMAIN-SUFFIX,daydream.dmhy.best
+DOMAIN-SUFFIX,pttime.org
